@@ -2,8 +2,3 @@
 asdf
 asdf
 
-
-asdfasdf
-
-
-asdfasdf
